@@ -1,0 +1,9 @@
+Tool and Library Required
+
+Jupyter notebook / Lab 
+python 3.8+
+Numpy
+Pandas 
+Matplotlib
+Seaborn
+Plotly
