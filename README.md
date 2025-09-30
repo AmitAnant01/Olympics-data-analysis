@@ -60,7 +60,3 @@ Objectives of the Project
 pip install -r requirements.txt
 
 
-
----
-
-👉 Would you like me to also create a ready-to-use repo name list (catchy and professional, like olympics-insights / olympic-trends-EDA) so you can pick one directly for GitHub?
