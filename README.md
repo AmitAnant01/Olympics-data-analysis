@@ -1,6 +1,6 @@
 
 
-## 🏅 Olympics Dataset Analysis
+#🏅 Olympics Dataset Analysis
 
  ## Repository Overview
 
@@ -23,7 +23,7 @@ This repository contains an in depth analysis of the Olympics dataset, which inc
 
 
 
-Objectives of the Project
+## Objectives of the Project
 
 1. Analyze participation trends of athletes and countries over time
 
@@ -40,7 +40,7 @@ Objectives of the Project
 5. Create visualizations that highlight Olympic growth and achievements
 
 
- Tools & Libraries Used
+ ## Tools & Libraries Used
 
 - Python – Core programming language
 
